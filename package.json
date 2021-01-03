@@ -1,0 +1,21 @@
+{
+  "name": "com.felixkahle.unity-projects-core",
+  "version": "1.0.1",
+  "displayName": "Unity Projects Core",
+  "description": "This package acts as the core for Unity projects.",
+  "unity": "2020.2",
+  "unityRelease": "1f1",
+  "dependencies": {
+    "com.unity.entities": "0.16.0-preview.21",
+    "com.unity.mathematics": "1.2.1",
+    "com.unity.collections": "0.14.0-preview.16"
+  },
+  "keywords": [
+    "core",
+    "projects"
+  ],
+  "author": {
+    "name": "Felix Kahle",
+    "email": "kahle.felix@outlook.de"
+  }
+}
