@@ -1,6 +1,6 @@
 {
   "name": "com.felixkahle.unity-projects-core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "Unity Projects Core",
   "description": "This package acts as the core for Unity projects.",
   "unity": "2020.2",
