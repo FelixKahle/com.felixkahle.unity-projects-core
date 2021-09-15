@@ -1,4 +1,4 @@
-﻿// Copyright 2020 Felix Kahle. All rights reserved.
+﻿// Copyright 2021 Felix Kahle. All rights reserved.
 
 using Unity.Mathematics;
 using System.Runtime.CompilerServices;
